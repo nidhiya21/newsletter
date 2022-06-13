@@ -9,7 +9,7 @@ Your email address [#Email#] Has been entered into our mailing list. You'll rece
 </CFOUTPUT>
 
 <CFELSE>
-
+ 
 <!--- Prompt User To Enter information --->
 
 <form action="Subscribe.cfm" method="post">
